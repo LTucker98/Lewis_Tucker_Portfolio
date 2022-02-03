@@ -1,12 +1,8 @@
-### Lewis Tucker
-
-## About Me
-
 ## Previous Work
 
 ## My Qualifications
 
-### Previous Jobs
+## Previous Jobs
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
