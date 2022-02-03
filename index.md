@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+### Lewis Tucker
 
-You can use the [editor on GitHub](https://github.com/LTucker98/Lewis_Tucker_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Previous Work
 
-### Markdown
+## My Qualifications
+
+### Previous Jobs
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
